@@ -38,12 +38,14 @@
         "STEM",
         "GOON SQUADSSSSS!!!!!!!",
         "ALL RED",
-        "Computer Science Ahh"
+        "Computer Science Ahh",
+        "Aerospace Engineering",
+        "F1 Mechanic Ahh"
       ]
     },
 
     "chat-log": true,
     "auto-reconnect": true,
-    "auto-recconect-delay": 5
+    "auto-recconect-delay": 5000
   }
 }
